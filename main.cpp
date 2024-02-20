@@ -17,3 +17,5 @@ int main() {
 	
 	cout << "Length: " << road.length << endl;
     cout << "Width: " << road.width << endl;
+	road.length = 444.4;
+    road.width = 444;
