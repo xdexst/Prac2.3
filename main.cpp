@@ -14,3 +14,6 @@ int main() {
     cout << "Test v0.1: Ok.\n";
 	
 	cout << "Before access: \n";
+	
+	cout << "Length: " << road.length << endl;
+    cout << "Width: " << road.width << endl;
